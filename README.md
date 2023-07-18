@@ -1,3 +1,2 @@
 # Laboratorio-de-computacion-II-
-Mi nombre es Juan Diego Derewicki / Comisión I /
-Acá se encuentran las actividades realizadas en la materia. 
+Actividades realizadas en la materia de Laboratorio de Computacion II con Java
